@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 4 9">
+  <path opacity=".71" d="M1.718 8.19l2.163-.75L2.125 0 0 .74l.511 2.18 1.207 5.27z" fill="url(#Q-UGJTax2a)"/>
+  <defs>
+    <linearGradient id="Q-UGJTax2a" x1=".997" y1=".077" x2="2.826" y2="7.928" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12151C"/>
+      <stop offset=".128" stop-color="#12151C"/>
+      <stop offset=".489" stop-color="#12151C"/>
+    </linearGradient>
+  </defs>
+</svg>
